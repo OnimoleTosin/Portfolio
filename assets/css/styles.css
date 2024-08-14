@@ -259,7 +259,7 @@ img {
   margin-bottom: var(--mb-2);
 }
 .icons{
-  color: red;
+  color: r;
 }
 .skills__text {
   margin-bottom: var(--mb-4);
@@ -297,6 +297,9 @@ img {
   width: 95%;
 }
 .skills__css {
+  width: 75%;
+}
+.skills__react {
   width: 85%;
 }
 .skills__js {

@@ -258,6 +258,9 @@ img {
 .skills__subtitle {
   margin-bottom: var(--mb-2);
 }
+.icons{
+  color: red;
+}
 .skills__text {
   margin-bottom: var(--mb-4);
 }
